@@ -1,1 +1,2 @@
-# Grupo4_P1AA
+# Práctica 1 Aprendizaje automático
+Práctica 1 de la asignatura Aprendizaje Automático de tercero de Ingeniería Informática de la Universidad Carlos III de Madrid. Esta práctica realizada en el lenguaje Python con la herramienta Jupyter Notebook desarrolla el uso de distintos modelos de aprendizaje para la predicción de datos metereológicos. Esto se realiza mediante el uso de las librerías de numpy, pandas y sklearn, así como herramientas de gráficos como seaborn y pyplot. El resultado final resulta ser un modelo con predicciones obtenido tras el estudio y comparación de modelos de regresión y clasificación incluyendo KNN y árboles predictivos. 
